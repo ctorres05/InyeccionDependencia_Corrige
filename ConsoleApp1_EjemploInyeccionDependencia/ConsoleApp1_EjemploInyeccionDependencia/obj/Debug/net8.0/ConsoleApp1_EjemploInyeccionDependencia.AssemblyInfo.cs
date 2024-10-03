@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp1_EjemploInyeccionDependencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b9ae29efb0ab2bd2d3760d7a6d86a7c4bdf1f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2430ca05a637171fbc23fae2aa5f2c0e0f43d0d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp1_EjemploInyeccionDependencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp1_EjemploInyeccionDependencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
