@@ -15,7 +15,7 @@ namespace ConsoleApp1_EjemploInyeccionDependencia
 
         static void Main(String[] arg)
         {
-            Console.WriteLine("********** Prueba de Inyeccion de Dpenddencia ********");
+            Console.WriteLine("**********>>> Prueba de Inyeccion de Dpenddencia <<<< ********");
             Console.WriteLine("Subo esto a GitHub");
 
 
