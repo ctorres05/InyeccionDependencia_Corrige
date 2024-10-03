@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp1_EjemploInyeccionDependencia/1.0.0": {
+        "runtime": {
+          "ConsoleApp1_EjemploInyeccionDependencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1_EjemploInyeccionDependencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
