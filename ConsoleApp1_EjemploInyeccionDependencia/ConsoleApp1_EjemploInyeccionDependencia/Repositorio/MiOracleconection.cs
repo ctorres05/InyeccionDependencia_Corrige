@@ -15,7 +15,7 @@ namespace ConsoleApp1_EjemploInyeccionDependencia.Repositorio
 
         public void ConectarBD(string cadenaconexion)
         {
-            Console.WriteLine(" **** " + cadenaconexion);
+            Console.WriteLine(" **** ORAC " + cadenaconexion);
 
         }
     }

@@ -14,19 +14,30 @@ namespace ConsoleApp1_EjemploInyeccionDependencia.Repositorio
 
         private MiOracleconection _oracle;
         private MiSqlconcection _sqlserver;
-                
+
+        private GestorConexionBD_2 _gestor2;
+
 
 
         public ClientesBancoRepositorio()
        {
            // _miconctionsql = new MiSqlconcection();
            _oracle = new MiOracleconection();
-           var _gestor = new GestorConexionBD(_oracle); /*Imyeccion*/
+           var _gestor = new GestorConexionBD(_oracle); /*Imyeccion en el constructor*/
            _gestor.ConectarBD("11.159.33   IP DE CONEXION");
 
            _sqlserver = new MiSqlconcection();        
             var _gestor1 = new GestorConexionBD(_sqlserver);
             _gestor1.ConectarBD("2 do gestor1   11.155.999   IP DE CONEXIOBN PARA SQL");
+
+
+            _gestor2 = new GestorConexionBD_2();
+            _gestor2.conectionbd = _oracle;     /*Inyeccion de dependecia por PROPIEDAD*/
+            _gestor2.ConectarBD("IP 999.999.999   Inyeccion  por propiedad *************************>>>>");
+
+                       
+            
+           // _gestor2.ConectarBD("1-99-999  Inyeccion por PROPOIEDADDDDDD");
         }
 
 

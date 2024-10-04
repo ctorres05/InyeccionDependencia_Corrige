@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\repositorio\\clientesbancorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\repositorio\\clientesbancorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\repositorio\\gestorconexionbd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\repositorio\\gestorconexionbd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\repositorio\\conectiobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +15,28 @@
       "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\repositorio\\gestorconexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\servicios\\comunicaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\servicios\\comunicaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\repositorio\\clientesbancorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\repositorio\\clientesbancorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\repositorio\\mioracleconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\repositorio\\mioracleconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\servicios\\clientesservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\servicios\\clientesservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\repositorio\\misqlconcection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\repositorio\\misqlconcection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\servicios\\clientesservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\servicios\\clientesservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\servicios\\comunicaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|solutionrelative:consoleapp1_ejemploinyecciondependencia\\servicios\\comunicaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4728AC0-66D5-4C92-813D-9CEB46635671}|ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj|c:\\programas net\\inyecciondependencia_corrige\\consoleapp1_ejemploinyecciondependencia\\consoleapp1_ejemploinyecciondependencia\\servicios\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,43 +58,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GestorConexionBD.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD.cs",
               "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD.cs",
               "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:10:54.401Z"
+              "WhenOpened": "2024-10-02T21:10:54.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "GestorConexionBD_2.cs",
+              "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD_2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD_2.cs",
+              "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD_2.cs",
+              "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\GestorConexionBD_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:47:18.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ConectioBD.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ConectioBD.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ConectioBD.cs",
               "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ConectioBD.cs",
               "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ConectioBD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T20:41:21.116Z"
+              "WhenOpened": "2024-10-02T20:41:21.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MiOracleconection.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\MiOracleconection.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\MiOracleconection.cs",
               "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\MiOracleconection.cs",
               "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\MiOracleconection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T20:39:15.479Z"
+              "WhenOpened": "2024-10-02T20:39:15.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,36 +123,51 @@
               "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\MiSqlconcection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T20:17:55.762Z"
+              "WhenOpened": "2024-10-02T20:17:55.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Program.cs",
               "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Program.cs",
               "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABQAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T20:44:25.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ClientesServis.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\ClientesServis.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\ClientesServis.cs",
               "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\ClientesServis.cs",
               "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\ClientesServis.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T19:59:50.858Z"
+              "WhenOpened": "2024-09-06T19:59:50.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ClientesBancoRepositorio.cs",
+              "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
+              "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
+              "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywCIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:51:52.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ComunicaServis.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\ComunicaServis.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\ComunicaServis.cs",
@@ -143,19 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientesBancoRepositorio.cs",
-              "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
-              "ToolTip": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
-              "RelativeToolTip": "ConsoleApp1_EjemploInyeccionDependencia\\Repositorio\\ClientesBancoRepositorio.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:51:52.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Sender.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\Sender.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\Servicios\\Sender.cs",
@@ -167,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ConsoleApp1_EjemploInyeccionDependencia.csproj",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia.csproj",
@@ -179,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ClientesBanco.cs",
               "DocumentMoniker": "C:\\Programas NET\\InyeccionDependencia_Corrige\\ConsoleApp1_EjemploInyeccionDependencia\\ConsoleApp1_EjemploInyeccionDependencia\\ClientesBanco.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_EjemploInyeccionDependencia\\ClientesBanco.cs",
